@@ -43,7 +43,7 @@ The Event Booking System allows users to manage events and bookings efficiently.
 -   **Maven/Gradle:** Build tools.
 -   **JUnit & Mockito:** Testing and mocking objects.
 -   **Sonarlint & Eclipse:** code Quality Check and Tests Coverage.
--   **SSwagger:** RESTFul Endpoints UI.
+-   **Swagger:** RESTFul Endpoints UI.
 -   **Sping Actuator:** for Monitoring.
 
 ## Prerequisites
